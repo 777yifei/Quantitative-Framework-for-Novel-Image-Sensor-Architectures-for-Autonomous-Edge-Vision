@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ipynb_checkpoints/
+.DS_Store
+*.log
